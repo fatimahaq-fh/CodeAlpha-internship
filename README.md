@@ -1,3 +1,7 @@
+
+[Task 1- Wireframe  (1).pdf](https://github.com/user-attachments/files/29887848/Task.1-.Wireframe.1.pdf)
+
+
 # CodeAlpha UI/UX Internship – Task 1
 
 ## Project
