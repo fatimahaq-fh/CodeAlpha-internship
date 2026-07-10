@@ -1,4 +1,5 @@
 
+
 [Task 1- Wireframe  (1).pdf](https://github.com/user-attachments/files/29887848/Task.1-.Wireframe.1.pdf)
 
 
@@ -24,3 +25,6 @@ The objective of this task was to create low-fidelity wireframes for a Food Deli
 
 ## Author
 Fatima Haq
+
+## Figma Design
+[https://www.figma.com/your-link-here](https://www.figma.com/design/5bRAOoFSZyl24bgCW8kbEQ/Task-1---Wireframes?node-id=0-1&t=zDu5MuwxMeyIiXEw-1)
