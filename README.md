@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX-orange?logo=figma)
+![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-blue)
 # CodeAlpha UI/UX Design Internship
 
 Welcome to my **CodeAlpha UI/UX Design Internship** repository.
